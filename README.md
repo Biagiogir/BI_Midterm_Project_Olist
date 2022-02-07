@@ -1,4 +1,4 @@
-# Ironhack Data Analytics Berlin Mid-Term Project Olist
+# BI Mid-Term Project Olist
 
 
 
