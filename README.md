@@ -12,7 +12,7 @@ Biagio Girlando
 BI project - build an interactive dashboard that shows insights about sales performance, main trends, potential weaknesses and the impact of sellers on Olist business. 
 
 **Dataset**:
-Olist Database(Brazilian e-commerce site). The original files were taken from kaggle web site, the database is devided in 14 tables and it contains information of 100,000 orders made between 2016 to 2018 Brazil-wide.
+Olist Database(Brazilian e-commerce site). The original files were taken from kaggle web site, the database is devided in 14 tables and it contains information about 100,000 orders made between 2016 to 2018 Brazil-wide.
 
 **Daily activities**
 - Day 1:
