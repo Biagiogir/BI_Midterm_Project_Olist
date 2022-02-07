@@ -1,6 +1,6 @@
 # BI_Midterm_Project_Olist
 
-Ironhack Data Analytics Berlin Mid-Term Project Olist
+#Ironhack Data Analytics Berlin Mid-Term Project Olist
 
 
 
