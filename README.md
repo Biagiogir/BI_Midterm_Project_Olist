@@ -5,7 +5,7 @@
 
 
 **Members**:
-Lok Ming Bosco Au-Yeung
+Lok Ming Bosco Au-Yeung;
 Biagio Girlando
 
 **Goal**:
