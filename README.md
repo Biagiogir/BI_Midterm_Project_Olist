@@ -13,6 +13,8 @@ BI project - build an interactive dashboard that shows insights about sales perf
 
 **Dataset**:
 Olist Database(Brazilian e-commerce site). The original files were taken from kaggle web site, the database is devided in 14 tables and it contains information about 100,000 orders made between 2016 to 2018 Brazil-wide.
+![image](https://user-images.githubusercontent.com/96190122/152947277-f379ce19-c9cf-47b6-a062-5a3fed4eeac0.png)
+
 
 **Daily activities**
 - Day 1:
