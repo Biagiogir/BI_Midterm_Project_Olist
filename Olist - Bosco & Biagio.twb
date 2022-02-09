@@ -2879,7 +2879,7 @@
       </table>
       <simple-id uuid='{F8486DA1-1D2A-4E45-9D27-5C029D15858C}' />
     </worksheet>
-    <worksheet name='Sheet 2'>
+    <worksheet name='Sheet test'>
       <table>
         <view>
           <datasources>
@@ -2948,7 +2948,7 @@
       </viewpoint>
       <simple-id uuid='{DA27A65E-6224-4B40-8BEA-A97D1FA317A4}' />
     </window>
-    <window class='worksheet' maximized='true' name='Sheet 2'>
+    <window class='worksheet' maximized='true' name='Sheet test'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -3197,7 +3197,7 @@
       SmSbmzOthy37cXpDXLrYdHM4uAfiwpUbrW55u5GrzM6vYJWL9AUcrO40B5H/P26YIKCwibij
       AAAAAElFTkSuQmCC
     </thumbnail>
-    <thumbnail height='64' name='Sheet 2' width='192'>
+    <thumbnail height='64' name='Sheet test' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAABACAYAAABMbHjfAAAACXBIWXMAAA7DAAAOwwHHb6hk
       AAAHLElEQVR4nO3cf0jbdx7H8ee6oHetuFv/ECerFLnKEXb+cf1Cw6UQt3il3rlSrAbb3fmH
       wxyt4B1lxbDb0LF1+Fc5jyrXDISWoau9s7aT2V2DXUuzZePL2AX0dl6bFm07yB+Hu0YuroHP
